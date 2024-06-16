@@ -33,6 +33,18 @@ Before running the application, make sure you have the following installed:
 ```
 git clone <repository-url>
 cd books-store/backend
+
+# Install dependencies
+npm install
+
+# Start containers
+docker-compose up -d
+
+# Start the backend server in development mode
+npm run dev
+
+# Run tests using Jest
+npm test
 ```
 
 # Books Store Backend API Documentation
