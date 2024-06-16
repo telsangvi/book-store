@@ -30,9 +30,10 @@ Before running the application, make sure you have the following installed:
 
 ### 1. Clone the Repository
 
-```bash
+```
 git clone <repository-url>
-cd books-store/backend```
+cd books-store/backend
+```
 
 # Books Store Backend API Documentation
 
@@ -86,6 +87,7 @@ Retrieve a list of books based on optional query parameters.
   ],
   "count": 2
 }
+```
 
 # Books Store Frontend
 
@@ -122,3 +124,4 @@ Before running the application, make sure you have the following installed:
 ```bash
 git clone <frontend-repository-url>
 cd books-store/frontend
+```
