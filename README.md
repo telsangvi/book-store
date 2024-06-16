@@ -118,8 +118,6 @@ This project is a frontend application built with React.js to consume the Books 
 - **React.js**: JavaScript library for building user interfaces.
 - **Redux Toolkit**: State management library for React applications.
 - **Axios**: Promise-based HTTP client for making API requests.
-- **Material-UI**: React components library for designing UIs.
-- **Jest**: Testing framework for JavaScript and TypeScript.
 
 ## Prerequisites
 
