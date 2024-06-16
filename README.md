@@ -32,7 +32,7 @@ Before running the application, make sure you have the following installed:
 
 ```bash
 git clone <repository-url>
-cd books-store/backend
+cd books-store/backend```
 
 # Books Store Backend API Documentation
 
